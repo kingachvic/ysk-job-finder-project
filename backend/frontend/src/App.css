@@ -1,0 +1,45 @@
+.app{
+  background-color: red;
+  min-height: 100vh;
+  display: flex;
+  justify-content: space-around;
+  align-items: top;
+}
+
+.hello{
+	color: green;
+	height:300px;
+	width: 300px;
+	background: white;
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+	border-radius: 20px;
+
+}
+
+.jobs{
+	color: green;
+	height:50;
+	width: 100%;
+	background: white;
+	display: flex;
+	justify-content:top-top;
+	align-items:center;
+	border-radius: 20px;
+	flex-direction: column;
+
+
+}
+
+.places{
+	color: black;
+	display : flex;
+	align-items :center;
+	flex-direction:column;
+	border-radius:10px;
+	background : grey;
+	width : 100px;
+	height: auto;
+	
+}
